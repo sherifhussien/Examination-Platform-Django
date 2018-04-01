@@ -1,0 +1,4 @@
+id,title,isRandom,numberOfQuestions,timeLimitInSeconds
+1,CSEN 401,1,0,0
+2,CSEN 403,0,2,10
+3,CSEN 402,1,2,50

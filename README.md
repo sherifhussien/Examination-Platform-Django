@@ -1,0 +1,1 @@
+Server side application using django framework to handle VR Examination Platform requests

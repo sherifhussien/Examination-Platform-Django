@@ -1,0 +1,10 @@
+id,question,answerText,isCorrect
+1,1,Card,0
+2,1,Person,0
+3,1,int,1
+4,2,public,0
+5,2,private,0
+6,2,protected,1
+7,2,default,0
+8,3,true,0
+9,3,false,1
