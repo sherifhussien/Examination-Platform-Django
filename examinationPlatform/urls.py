@@ -19,6 +19,7 @@ from django.conf import settings
 from django.conf.urls.static import static
 
 urlpatterns = [
+    path('', admin.site.urls),
     path('admin/', admin.site.urls), 
     path('api/exams/', include('exams.urls')) # as_view() creates instance of the class
 ]
