@@ -6,6 +6,8 @@ staticfiles
 examinationPlatform/settings/local.py
 examinationPlatform/old_settings.py
 
+db.sqlite3
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
